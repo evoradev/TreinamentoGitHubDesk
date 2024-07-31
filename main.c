@@ -5,6 +5,7 @@ int main() {
     
     printf("NÃO LEIA!\n");
     printf("Linha1\n");
+    printf("linha3\n");
 
     return 0;
 }
